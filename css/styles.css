@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: beige;
+  line-height: 1.4;
+  padding: 0 1em;
+}
+
+h1 {
+  background-color: darkcyan;
+  font-weight: bolder;
+}
+
+a {
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: cadetblue;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+ul#recipes {
+  font-weight: bold;
+  list-style-type: circle;
+  text-align: left;
+  padding-top: 1.5em;
+}
+
+li.recipes-list {
+  padding-bottom: 1em;
+}
+
+h3 {
+  font-weight: bold;
+  text-align: center;
+  background-color: cadetblue;
+}
+
+p {
+  text-align: justify;
+}
+
+.title {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+ul,
+ol {
+  padding-left: 1.5em;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
